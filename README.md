@@ -5,6 +5,8 @@
 For use as part of Worldwide Dataset project and other projects at the UNCW FaceAging lab. Makes use of the ROC SDK without making
 direct contact with the chawkface server.
 
+Allows for simple Rank One facial recognition algorithms to be easily integrated into any project or codebase and run from a non-licensed computer. Functionality includes one2one and one2N comparison using images or entire directories of images as input. Built using Flask and python.
+
 
 ### Prerequisites
 
