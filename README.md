@@ -57,4 +57,4 @@ N/A
 ## Acknowledgments
 
 * FaceAging Lab
-* Karl Ricanek, our fearless leader
+
